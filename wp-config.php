@@ -74,6 +74,7 @@ $table_prefix  = 'wp_';
  * in their development environments.
  */
 define('WP_DEBUG', false);
+define('WP_ALLOW_REPAIR', true);
 
 /* That's all, stop editing! Happy blogging. */
 
